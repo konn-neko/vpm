@@ -12,5 +12,8 @@
         "url":"http://github.com/vrchat-community/template-package-listing",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png"
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "konn-neko/poi"
+    ]
 }
